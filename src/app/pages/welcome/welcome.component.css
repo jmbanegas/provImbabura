@@ -1,4 +1,4 @@
-.container{
+.bloque{
 
     border: solid 1px black;
     display: block;
@@ -24,14 +24,14 @@
       width: 200px;
       height: 100px;
     }
-    .f1{
+    .e1{
       background-color: red;
     }
-    .f2{
+    .e2{
     
       background-color: white;
     }
-    .f3{
+    .e3{
       
       background-color:green ;
     }
@@ -40,7 +40,7 @@
       display: flex;
       justify-content: center;
     }
-    .c1{
+    .d1{
     
     display: block;
     border: solid 1px black;
@@ -49,7 +49,7 @@
     margin: 10px;
     padding: 5px;
     }
-    .c2{
+    .d2{
     
       display: block;
     border: solid 1px black;
@@ -60,7 +60,7 @@
     
     }
     
-    .c3{
+    .d3{
     
       display: block;
     border: solid 1px black;
